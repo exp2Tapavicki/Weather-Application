@@ -1,5 +1,5 @@
-#Weather Forecast Application
-####Proof of concept
+# Weather Forecast Application
+#### Proof of concept
 
 Python3.6 is used.
 
@@ -27,7 +27,7 @@ DNNRegressor implementation example used from link below
     https://stackabuse.com/using-machine-learning-to-predict-the-weather-part-3/
 
 
-####Instalation instruction for Ubuntu 18.04.1 LTS
+#### Instalation instruction for Ubuntu 18.04.1 LTS
 
     sudo apt-get install libgtk-3-dev
     
@@ -53,7 +53,7 @@ Unpack city.list.json.gz with gunzip
     
     gunzip city.list.json.gz
 
-###Weather data provided by openweathermap.org
+### Weather data provided by openweathermap.org
 
     appid=8747776c71eb8c06a27001b6d598ff2b
 
